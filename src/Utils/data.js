@@ -45,7 +45,7 @@ export const projects=[
     {
         id:4,
         name:"A bill tracker",
-        img:"http://www.flareapps.com/wp-content/uploads/2017/10/view-all-bills.jpg",
+        img:"https://www.mobillsapp.com/images/contents/expense-tracker-charts.png",
         des:[
             "Log bills, amounts and date",
             "List bills",
